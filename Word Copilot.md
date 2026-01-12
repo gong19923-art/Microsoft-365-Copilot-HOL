@@ -97,7 +97,7 @@ Word Agent는 단순한 텍스트 입력을 넘어, 문서의 완성도를 높�
 문서 전체를 영어로 번역하고 글로벌 비즈니스 톤(영미권)으로 표현 개선해줘
 ```
 
-#### 🛠️ Agent 생성 결과 검토 및 확정하기
+### 6. Agent 생성 결과 검토 및 확정하기
 
 <img width="645" height="300" alt="image" src="https://github.com/user-attachments/assets/4b0ee585-4c98-41f1-82f2-28a7f2ee89df" />
 <br/>
