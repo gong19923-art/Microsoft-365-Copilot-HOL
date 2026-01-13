@@ -15,10 +15,9 @@ Microsoft 365 Copilot 실습 가이드 및 프롬프트 모음
 #### 📎 파일 참조 및 첨부 방법
 
 프레젠테이션 제작 시 외부 자료를 참조하려면 **슬래시(`/`)** 명령어를 사용합니다.
-
-* 참조 방법: 입력창에 **슬래시(`/`)** 를 입력하여 첨부할 파일을 선택합니다.
-* 제약 사항: **클라우드 파일 전용** <img width="22" height="18" alt="cloud" src="https://github.com/user-attachments/assets/af93597c-50b9-4134-86a1-827ddcb31487" /> **OneDrive** 또는 **SharePoint** 등 클라우드에 저장된 파일만 첨부 및 참조가 가능합니다.
-    * 로컬 파일 불가: PC 본체(내 문서, 바탕화면 등)에만 저장된 로컬 파일은 직접 참조할 수 없습니다.
+#### 제약 사항:
+* 클라우드 파일 전용 :<img width="22" height="18" alt="cloud" src="https://github.com/user-attachments/assets/af93597c-50b9-4134-86a1-827ddcb31487" /> **OneDrive** 또는 **SharePoint** 등 클라우드에 저장된 파일만 첨부 및 참조가 가능합니다.
+* 로컬 파일 불가 : PC 본체(내 문서, 바탕화면 등)에만 저장된 로컬 파일은 직접 참조할 수 없습니다.
 
 > 💡 **Tip:** 로컬 파일을 사용하고 싶다면, 먼저 해당 파일을 OneDrive에 업로드한 후 슬래시(`/`)를 입력해 보세요.
 
