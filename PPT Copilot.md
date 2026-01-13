@@ -1,4 +1,4 @@
-# Microsoft-365-Copilot-HOL
+# 💼 Microsoft 365 Copilot 실습 가이드: PowerPoint
 Microsoft 365 Copilot 실습 가이드 및 프롬프트 모음
 ## PowerPoint Copilot
 ### 1. [오피스포탈](https://www.office.com) 에 접속 후 웹브라우저 형식의 PowerPoint를 실행합니다.
