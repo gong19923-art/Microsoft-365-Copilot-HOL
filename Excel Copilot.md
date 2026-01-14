@@ -1,5 +1,5 @@
 # 📊 Microsoft 365 Copilot 실습 가이드: Excel
-Excel에서의 Copilot은 단순한 문서 작성을 넘어, 방대한 수치와 텍스트 데이터를 분석하고 핵심 인사이트를 도출하는 **데이터 분석 파트너**입니다.
+Microsoft 365 Copilot 실습 가이드 및 프롬프트 모음
 
 ---
 
